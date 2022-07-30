@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474428868543",
+    "project_id": "boardproject-5b3c1",
+    "storage_bucket": "boardproject-5b3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474428868543:android:de70bc2b94cc9bf9c3c30a",
+        "android_client_info": {
+          "package_name": "com.apliecream.boardproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474428868543-794npb0qlhl0aj2521cpb97qqn2690g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJZMFx-ZAR6nzDtT2EYsoaNDfA2yNqfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474428868543-794npb0qlhl0aj2521cpb97qqn2690g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
